@@ -2,6 +2,10 @@
 
 CEST MRI analysis using multi-pool Lorentzian fitting (MPLF)  
 
+Author: Jianpan Huang
+
+Email: jp.huang@cityu.edu.hk
+
 To learn more about CEST MRI analysis, please visit: https://github.com/cest-sources
 
 References: 
