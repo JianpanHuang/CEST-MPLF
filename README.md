@@ -6,7 +6,7 @@ Author: Jianpan Huang
 
 Email: jp.huang@cityu.edu.hk
 
-Affiliations: Department of Biomedical Engineering, City University of Hong Kong
+Affiliation: Department of Biomedical Engineering, City University of Hong Kong
 
 To learn more about CEST MRI analysis, please visit: https://github.com/cest-sources
 
