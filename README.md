@@ -2,9 +2,7 @@
 
 CEST MRI analysis using multi-pool Lorentzian fitting (MPLF)  
 
-Authors: Jianpan Huang
-
-Email: jp.huang@cityu.edu.hk
+Authors: Jianpan Huang      Email: jp.huang@cityu.edu.hk
 
 Affiliations: Department of Biomedical Engineering, City University of Hong Kong, Hong Kong, China
 
