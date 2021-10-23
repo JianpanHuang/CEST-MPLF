@@ -8,7 +8,7 @@ Affiliations: Department of Biomedical Engineering, City University of Hong Kong
 
 Matlab version: 9.10.0.1739362 (R2021a) Update 5
 
-Know more about CEST MRI analysis using MPLF: https://github.com/cest-sources**
+More about CEST MRI analysis using MPLF: https://github.com/cest-sources
 
 References: 
 
