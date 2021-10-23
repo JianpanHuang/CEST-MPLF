@@ -12,7 +12,7 @@ Matlab version: 9.10.0.1739362 (R2021a) Update 5
 
 References: 
 
-1. Zaiss M, Schmitt B, Bachert P. Quantitative separation of CEST effect from magnetization transfer and spillover effects by Lorentzian-line-fit analysis of z-spectra. Journal Magnetic Resonance 2011;211(2):149-155. Code: https://github.com/cest-sources
+1. Zaiss M, Schmitt B, Bachert P. Quantitative separation of CEST effect from magnetization transfer and spillover effects by Lorentzian-line-fit analysis of z-spectra. Journal Magnetic Resonance 2011;211(2):149-155. **Code: https://github.com/cest-sources**
 
 2. Zaiss M, Deshmane A, Schuppert M, Herz K, Glang F, Ehses P, Lindig T, Bender B, Ernemann U, Scheffler K. DeepCEST: 9.4 T Chemical exchange saturation transfer MRI contrast predicted from 3 T data–a proof of concept study. Magnetic Resonance in Medicine 2019;81(6):3901-3914.
 
