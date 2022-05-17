@@ -10,8 +10,8 @@ load([dataPath, filesep, 'MouseBrain.mat'])
 zImgNorm = zImg./repmat(m0Img, [1,1,wn]); % Normalize to M0 image
 
 %% Calculate the averaged Z-spectrum in ROI
-[mask, num] = drawRoi(m0Img, dataPath, roiName);
-% mask = brainMask;
+% [mask, num] = drawRoi(m0Img, dataPath, roiName);
+mask = brainMask;
 z=zeros(wn,1);
 for m = 1:wn
     imgTemp = zImgNorm(:,:,m);
