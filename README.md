@@ -4,7 +4,7 @@
 
 Author: Jianpan Huang
 
-Email: jphuang@hku.hk
+Email: jianpanhuang@outlook.com
 
 Affiliation: Department of Diagnostic Radiology, The University of Hong Kong, Hong Kong, China
 
