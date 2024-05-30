@@ -8,7 +8,7 @@ Email: jianpanhuang@outlook.com
 
 Affiliation: Department of Diagnostic Radiology, The University of Hong Kong, Hong Kong, China
 
-The demo data is a simulation data created using 5-pool Bloch-McConnell equation with amide fraction varied as 0.0009009, 0.0009009*2, 0.0009009*3, 0.0009009*4. Other parameters remained the same.
+The demo data is a simulation data created using 5-pool Bloch-McConnell equation with amide fraction varied as 0.0009009, 0.0009009*2, 0.0009009*3, 0.0009009*4. Other parameters remained the same. Therefore, we can see a gradient change in amide (3.5 ppm) map, but not in other CEST maps below.
 
 **You can change the data to your own CEST data, which must include CEST images (img), frequency offsets (offs) and ROI (roi).**
 
