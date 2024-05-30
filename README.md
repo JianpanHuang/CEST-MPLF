@@ -14,10 +14,7 @@ The demo data is a simulation data created using 5-pool Bloch-McConnell equation
 
 After running the code, you will see the following fitting process and results:
 
-<img width="1000" alt="image" src="https://github.com/JianpanHuang/CEST-MPLF/assets/43700029/60f6d1e7-0839-4a6b-ab21-ba03b1df7386">
-
-<img width="1000" alt="image" src="https://github.com/JianpanHuang/CEST-MPLF/assets/43700029/46a8cb0f-8e73-4348-a9b5-6bb41faf9ddb">
-
+<img width="1051" alt="image" src="https://github.com/JianpanHuang/CEST-MPLF/assets/43700029/120ddc59-d5c4-49bf-97f9-aa8bbd890167">
 
 References: 
 
