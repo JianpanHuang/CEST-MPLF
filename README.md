@@ -1,6 +1,6 @@
 # CEST-MPLF
 
-CEST MRI analysis using multi-pool Lorentzian fitting (MPLF)  
+% CEST processing using multipool Lorentzian fitting (MPLF) with inverse Z-spectrum analysis
 
 Author: Jianpan Huang
 
