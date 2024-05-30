@@ -153,13 +153,13 @@ end
 % Plot
 set(0,'defaultfigurecolor','w')
 % CEST
-figure, set(gcf,'unit','normalized','position',[0.3,0.2,0.2,0.6]);
+figure, set(gcf,'unit','normalized','position',[0.3,0.2,0.2,0.8]);
 subplot(3,1,1), imagesc(amide_splice),colorbar('fontsize',12,'fontweight','bold'),caxis([0,0.08]),axis off,colormap(jet);title('Amide')
 subplot(3,1,2), imagesc(rnoe_splice),colorbar('fontsize',12,'fontweight','bold'),caxis([0,0.06]),axis off,colormap(jet);title('rNOE')
 subplot(3,1,3), imagesc(mt_splice),colorbar('fontsize',12,'fontweight','bold'),caxis([0,0.20]),axis off,colormap(jet);title('MT')
 % subplot(4,1,4), imagesc(guan_splice),colorbar('fontsize',12,'fontweight','bold'),caxis([0,0.10]),axis off,colormap(inferno);title('Guan')
 % CEST inv
-figure, set(gcf,'unit','normalized','position',[0.5,0.2,0.2,0.6]);
+figure, set(gcf,'unit','normalized','position',[0.5,0.2,0.2,0.8]);
 subplot(3,1,1), imagesc(amide_inv_splice),colorbar('fontsize',12,'fontweight','bold'),caxis([0,0.15]),axis off,colormap(jet);title('Amide inv')
 subplot(3,1,2), imagesc(rnoe_inv_splice),colorbar('fontsize',12,'fontweight','bold'),caxis([0,0.1]),axis off,colormap(jet);title('rNOE inv')
 subplot(3,1,3), imagesc(mt_inv_splice),colorbar('fontsize',12,'fontweight','bold'),caxis([0,0.35]),axis off,colormap(jet);title('MT inv')
