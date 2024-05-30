@@ -16,7 +16,7 @@ After running the code, you will see the following fitting process and results:
 
 <img width="1051" alt="image" src="https://github.com/JianpanHuang/CEST-MPLF/assets/43700029/120ddc59-d5c4-49bf-97f9-aa8bbd890167">
 
-References: 
+If you use the code, please consider citing the references: 
 
 [1] Huang J, Lai J H C, Tse K H, et al. Deep neural network based CEST and AREX processing: Application in imaging a model of Alzheimer’s disease at 3 T. Magnetic Resonance in Medicine, 2022, 87(3): 1529-1545.
 
