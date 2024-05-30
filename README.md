@@ -10,7 +10,7 @@ Affiliation: Department of Diagnostic Radiology, The University of Hong Kong, Ho
 
 The demo data is a simulation data created using 5-pool Bloch-McConnell equation with amide fraction varied as 0.0009009, 0.0009009*2, 0.0009009*3, 0.0009009*4. Other parameters remained the same.
 
-** You can change the data to your own CEST data, which must include CEST images (img), frequency offsets (offs) and ROI (roi).**
+**You can change the data to your own CEST data, which must include CEST images (img), frequency offsets (offs) and ROI (roi).**
 
 After running the code, you will see the following fitting process and results:
 
