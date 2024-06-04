@@ -7,7 +7,7 @@ addpath(genpath(pwd));
 filepath = 'data';
 load([filepath,filesep,'simu_phant_5pools_amidediff.mat']); % The mat file includes CEST images (img), frequency offsets (offs) and ROI (roi)
 if ~exist("offs","var")
-    error("Please define the variable 'offs' -- list of saturatiion frequency offsets!")
+    error("Please define the variable 'offs' (list of saturatiion frequency offsets) before this if sentence")
 end
 if length(size(img)) == 3
     img_temp = img;
