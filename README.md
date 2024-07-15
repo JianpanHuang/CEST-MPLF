@@ -12,7 +12,7 @@ The demo data is a simulation data created using 5-pool Bloch-McConnell equation
 
 **You can change the data to your own CEST data, which must include CEST images (img), frequency offsets (offs) and ROI (roi).**
 
-After running the code, you will see the following fitting process and results:
+After running the code, you will see the following fitting process and results (In this case, only the amide concentration was changed, rNOE and MT concentrations remained constant in the four tubes.):
 
 <img width="1051" alt="image" src="https://github.com/JianpanHuang/CEST-MPLF/assets/43700029/120ddc59-d5c4-49bf-97f9-aa8bbd890167">
 
